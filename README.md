@@ -1,2 +1,2 @@
 # Excel_Project
-Analysis of Annual Report of a Store
+This folder includes different MS Excel Projects
